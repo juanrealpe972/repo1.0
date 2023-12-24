@@ -842,26 +842,13 @@ img.logo-sena {
 }
 
 
-.btn_form--contacto {
+.btn-enviar {
     display: flex;
+    cursor: pointer;
     justify-content: center;
 }
 
-.btn_form--contacto button {
-    background: var(--eerie-black);
-    border: none;
-    font-family: 'Cooper Hewitt';
-    width: 20rem;
-    padding: .8rem 1rem;
-    border-radius: 1rem;
-    color: var(--white);
-    font-size: 1.8rem;
-    letter-spacing: 1px;
-    cursor: pointer;
-    transition: 1s all;
-}
-
-.btn_form--contacto button:hover {
+.btn-enviar:hover {
     background: var(--newColor);
     color: var(--eerie-black);
     font-weight: bold;
@@ -870,7 +857,7 @@ img.logo-sena {
     transition: all .4s ease;
 }
 
-.btn_form--contacto button:active {
+.btn-enviar:active {
     background: var(--jet);
 }
 
