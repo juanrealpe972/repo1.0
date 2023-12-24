@@ -1,0 +1,46 @@
+{
+    "menu": {
+        "item2": "Sobre mí",
+        "item3": "Habilidades",
+        "item4": "Formación",
+        "item5": "Proyectos",
+        "item6": "Contacto"
+    },
+
+    "home": {
+        "home_text-1": "Hola! Soy",
+        "home_text-3": "Desarrollador Full Stack",
+        "parrafo-info": "Me considero una persona responsable, trabajador, juicioso. Siempre estoy dispuesto a aprender cosas nuevas y ayudar a los demás; Siempre me esfuerzo por crear productos y codigos que sean útiles, fáciles de usar y estéticamente agradables. Siendo una persona comprometida con mi trabajo y buscando siempre estar dispuesto a ir más allá para cumplir con las expectativas..",
+        "cv_button": "Descargar CV",
+        "contact_button": "Contacto"
+    },
+
+    "sobre-mi": {
+        "title": "Sobre mí",
+        "texto_sobreMi": "Soy desarrollador de software junior de Colombia. Actualmente estoy aprendiendo en el SENA. Me enfoco minuciosamente en mi trabajo, buscando siempre mejorar tanto individualmente como en equipo.  Pienso que las habilidades pueden ser enseñadas y con esto considero que 'todas las personas en el mundo del desarrollo Lo que imaginen, podrán hacerlo'. Pero, es esencial tener una planificación clara antes de comenzar a trabajar en un proyecto."
+    },
+
+    "habilidades": {
+        "title": "Habilidades"
+    },
+
+    "formacion": {
+        "title": "Formación",
+        "formacion1": "Estadística",
+        "tiempo-formacion1": "2019 - En curso",
+        "formacion2": "Desarrolladora Full-Stack",
+        "tiempo-formacion2": "2022 - En curso",
+        "formacion3": "Contabilización de Operaciones Comerciales y Financieras"
+    },
+
+    "proyectos": {
+        "title": "Proyectos",
+        "title-proyecto1": "Juego del Ahorcado",
+        "info-proyecto1": "Un juego donde el usuario debe adivinar la palabra secreta con un cierto número de oportunidades. La palabra se escoge de forma aleatoria por el programa y el usuario perderá en el momento en que la horca se complete."
+    },
+
+    "contacto": {
+        "title": "Contacto",
+        "btn-enviar": "Enviar"
+    }
+}
